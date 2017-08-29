@@ -1,0 +1,3 @@
+
+* Span intersection/buffering (for drawing z-ordered polygons)
+http://www.gripho.it/sbuffer.en.html

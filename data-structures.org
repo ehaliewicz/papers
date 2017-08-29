@@ -1,0 +1,6 @@
+
+* Skip lists
+http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_skip.aspx
+http://ticki.github.io/blog/skip-lists-done-right/
+https://www.csee.umbc.edu/courses/undergraduate/341/fall01/Lectures/SkipLists/skip_lists/skip_lists.html
+
