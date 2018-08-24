@@ -15,4 +15,8 @@
 ** https://www.redblobgames.com/grids/hexagons/
 
 
+* list life (conway's game of life)
+** http://dotat.at/prog/life/life.html
+** spare dynamic array, single scan over universe for each generation, calculate multiple cells in parallel
+
 

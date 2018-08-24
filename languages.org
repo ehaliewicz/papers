@@ -1,2 +1,14 @@
 * Forth
-http://www.bradrodriguez.com/papers/moving1.htm
+** moving forth (porting/writing forth interpreters for various machines)
+*** http://www.bradrodriguez.com/papers/moving1.htm
+** implementing Forth in Lisp
+*** http://web.archive.org/web/20100909074608/http://formlis.wordpress.com/2010/06/30/forth-in-lisp/
+
+** jonesforth (literate forth in x86 assembly)
+*** http://web.archive.org/web/20080509084436/http://www.annexia.org/_file/jonesforth.s.txt
+
+** itsyforth 
+*** http://www.retroprogramming.com/2012/09/itsy-documenting-bit-twiddling-voodoo.html
+
+** linear forth 
+*** http://home.pipeline.com/~hbaker1/ForthStack.html
