@@ -10,5 +10,5 @@
 ** itsyforth 
 *** http://www.retroprogramming.com/2012/09/itsy-documenting-bit-twiddling-voodoo.html
 
-** linear forth 
+** linear languages, forth in lisp 
 *** http://home.pipeline.com/~hbaker1/ForthStack.html
