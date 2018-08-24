@@ -10,3 +10,11 @@
 - http://web.archive.org/web/19991011034512/http://freespace.virgin.net:80/hugo.elias/graphics/x_polysc.htm
 - http://web.archive.org/web/20160511173328/http://freespace.virgin.net:80/hugo.elias/graphics/x_polyop.htm
 - http://web.archive.org/web/20160512213418/http://freespace.virgin.net:80/hugo.elias/graphics/x_main.htm
+
+
+# Lighting
+(phong approximation) -  http://web.archive.org/web/20160418004152/http://freespace.virgin.net/hugo.elias/graphics/x_polyph.htm
+
+
+# Voxel rendering
+(voxlap algorithm) - https://web.archive.org/web/20120321063223/http://www.jonof.id.au/forum/index.php?topic=30.0

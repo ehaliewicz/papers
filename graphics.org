@@ -16,9 +16,9 @@ https://www.gamedev.net/articles/programming/graphics/graphics-programming-black
 
 * Lighting
 ** Phong Approximation
-http://web.archive.org/web/20160418004152/http://freespace.virgin.net/hugo.elias/graphics/x_polyph.htm
+(phong approximation) http://web.archive.org/web/20160418004152/http://freespace.virgin.net/hugo.elias/graphics/x_polyph.htm
 
 
 * Voxel rendering
 ** voxlap algorithm
-https://web.archive.org/web/20120321063223/http://www.jonof.id.au/forum/index.php?topic=30.0
+
