@@ -11,8 +11,7 @@
 
 # Caroline Word Graph
 - http://pages.pathcom.com/~vadco/cwg.html
--- notes: something like a DAG compressed by a popcount'd bitmap for each tree node's children
--- shrunken even further by the observation that only certain bitmaps will be needed for a given language (in this case, english)
+> notes: something like a DAG compressed by a popcount'd bitmap for each tree node's children, shrunken even further by the observation that only certain bitmaps will be needed for a given language (in this case, english)
 
 # QP Trie
 - https://dotat.at/prog/qp/README.html
