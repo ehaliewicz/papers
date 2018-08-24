@@ -20,4 +20,4 @@
 
 #### List Life
 - http://dotat.at/prog/life/life.html
-- sparse dynamic array, single scan over universe for each generation, calculate multiple cells in parallel
+-- notes: uses a sparse dynamic array, single scan over universe for each generation, calculate multiple cells in parallel
