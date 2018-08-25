@@ -11,3 +11,9 @@
 
 # Bootstrapping a simple compiler from nothing
 - http://web.archive.org/web/20170318033104/http://rano.org/bcompiler.html
+
+
+# Dynamo - A Transparent Dynamic Optimization System
+- http://cseweb.ucsd.edu/classes/sp00/cse231/dynamopldi.pdf
+> the first paper on tracing JIT compilers 
+
