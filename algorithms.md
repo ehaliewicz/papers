@@ -22,6 +22,12 @@
 - http://dotat.at/prog/life/life.html
 > notes: uses a sparse dynamic array, single scan over universe for each generation, calculate multiple cells in parallel
 
+#### Hash Life
+- https://en.wikipedia.org/wiki/Hashlife
+- http://www.drdobbs.com/jvm/an-algorithm-for-compressing-space-and-t/184406478
+
+> notes: The final word on game of life algorithms (and 2d cellular automata in general?)  Uses a hash-consed quadtree to calculate ever increasing numbers of generations each step.
+> Drawbacks:  Doesn't handle dynamic or non-repetitive patterns well.
 
 # Regular Expressions
 
@@ -30,3 +36,12 @@
 > notes: compiles regular expressions to machine code which evaluates a NFA breadth-first, by maintaining a list of current states (which are machine code, that when evaluated, will add a new state (which is more machine code!) to the list of next states)
 
 > each state only adds the next state if it passes, however some states modify the current list of states (which is the running machine code!)
+
+> https://swtch.com/~rsc/regexp/ibm7094.html  (useful for reading the above paper)
+
+
+#### Regular Expression Matching Can Be Simple And Fast
+- https://swtch.com/~rsc/regexp/regexp1.html
+
+# Hash Consing
+- https://en.wikipedia.org/wiki/Hash_consing
