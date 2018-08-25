@@ -8,6 +8,16 @@
 #### itsyforth (another x86 forth)
 - http://www.retroprogramming.com/2012/09/itsy-documenting-bit-twiddling-voodoo.html
 
+
+# Chicken Scheme
+#### CHICKEN internals: the garbage collector 
+- https://www.more-magic.net/posts/internals-gc.html
+> uses the Cheney on the MTA approach detailed below
+
+#### CHICKEN internals: data representation
+https://www.more-magic.net/posts/internals-data-representation.html
+
+
 # Other stuff
 #### linear languages 
 - http://home.pipeline.com/~hbaker1/ForthStack.html
