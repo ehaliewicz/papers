@@ -2,7 +2,7 @@
 - http://www.lysator.liu.se/~mikaelk/doc/perspectivetexture/
 - http://archive.gamedev.net/archive/reference/articles/article852.html
 - http://www.hugi.scene.org/online/coding/hugi%2025%20-%20coding%20corner%20graphics%20bonz%20texture%20mapping%20part%203.htm
-
+- http://chrishecker.com/Miscellaneous_Technical_Articles
 
 # Polygon Rasterization
 - http://www.hugi.scene.org/online/coding/hugi%2017%20-%20cotriang.htm
@@ -10,6 +10,9 @@
 - http://web.archive.org/web/19991011034512/http://freespace.virgin.net:80/hugo.elias/graphics/x_polysc.htm
 - http://web.archive.org/web/20160511173328/http://freespace.virgin.net:80/hugo.elias/graphics/x_polyop.htm
 - http://web.archive.org/web/20160512213418/http://freespace.virgin.net:80/hugo.elias/graphics/x_main.htm
+
+##### Accelerated Half-Space Triangle Rasterization
+- https://www.uni-obuda.hu/journal/Mileff_Nehez_Dudra_63.pdf
 
 
 # Lighting
