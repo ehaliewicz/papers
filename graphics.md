@@ -7,7 +7,7 @@
 # Polygon Rasterization
 - http://www.hugi.scene.org/online/coding/hugi%2017%20-%20cotriang.htm
 - http://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/projection-stage
-- http://web.archive.org/web/19991011034512/http://freespace.virgin.net:80/hugo.elias/graphics/x_polysc.htm
+- http://web.archive.org/web/20100313070715/http://freespace.virgin.net:80/hugo.elias/graphics/x_polysc.htm
 - http://web.archive.org/web/20160511173328/http://freespace.virgin.net:80/hugo.elias/graphics/x_polyop.htm
 - http://web.archive.org/web/20160512213418/http://freespace.virgin.net:80/hugo.elias/graphics/x_main.htm
 
