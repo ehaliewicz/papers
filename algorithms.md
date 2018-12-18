@@ -43,5 +43,8 @@
 #### Regular Expression Matching Can Be Simple And Fast
 - https://swtch.com/~rsc/regexp/regexp1.html
 
-# Hash Consing
+#### Hash Consing
 - https://en.wikipedia.org/wiki/Hash_consing
+
+#### Pearson Hashing
+- https://en.wikipedia.org/wiki/Pearson_hashing
