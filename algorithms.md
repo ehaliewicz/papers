@@ -39,6 +39,12 @@
 
 > https://swtch.com/~rsc/regexp/ibm7094.html  (useful for reading the above paper)
 
+- https://swtch.com/~rsc/regexp/regexp-bytecode.c.txt
+> conversion of the above to C w/ bytecode vm 
+
+- https://swtch.com/~rsc/regexp/regexp-x86.c.txt
+> conversion of the above to C w/ runtime generated x86 code
+
 
 #### Regular Expression Matching Can Be Simple And Fast
 - https://swtch.com/~rsc/regexp/regexp1.html
