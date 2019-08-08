@@ -23,3 +23,7 @@
 
 # Logic Programming and Compiler Writing
 - http://sovietov.com/tmp/warren1980.pdf
+
+# Programs as compressed Abstract syntax trees
+- https://oberoncore.ru/_media/library/franz_m.code-generation_on-the-fly_a_key_to_portable_software.en.pdf
+- https://hokstad.com/semantic-dictionary-encoding
