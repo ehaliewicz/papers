@@ -25,5 +25,7 @@
 - http://sovietov.com/tmp/warren1980.pdf
 
 # Programs as compressed Abstract syntax trees
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.1711&rep=rep1&type=pdf
+- http://web.archive.org/web/20050316223553/http://www.ics.uci.edu/~franz/publications/J9310%20UniversalSymbolFiles.pdf
 - https://oberoncore.ru/_media/library/franz_m.code-generation_on-the-fly_a_key_to_portable_software.en.pdf
 - https://hokstad.com/semantic-dictionary-encoding
