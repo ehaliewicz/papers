@@ -4,6 +4,7 @@
 # Line drawing and error correction style algorithms (e.g. bresenham)
 #### bresenham algorithm
 - http://members.chello.at/~easyfilter/bresenham.html
+- https://www.romanblack.com/one_sec.htm
 
 #### run-length sliced bresenham
 - http://www.phatcode.net/res/224/files/html/ch36/36-01.html
