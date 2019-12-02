@@ -58,3 +58,9 @@
 
 #### Pearson Hashing
 - https://en.wikipedia.org/wiki/Pearson_hashing
+
+# Collision Detection
+#### Spatial grid/hashing
+- https://web.archive.org/web/20160418004153/http://freespace.virgin.net/hugo.elias/models/m_colide.htm
+- https://conkerjo.wordpress.com/2009/06/13/spatial-hashing-implementation-for-fast-2d-collisions/
+
