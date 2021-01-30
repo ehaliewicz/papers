@@ -1,10 +1,11 @@
-# Perspective texture-mapping
+# Perspective texture-mapping and Polygon Rasterization
 - http://www.lysator.liu.se/~mikaelk/doc/perspectivetexture/
 - http://archive.gamedev.net/archive/reference/articles/article852.html
 - http://www.hugi.scene.org/online/coding/hugi%2025%20-%20coding%20corner%20graphics%20bonz%20texture%20mapping%20part%203.htm
 - http://chrishecker.com/Miscellaneous_Technical_Articles
-
-# Polygon Rasterization
+- https://www.flipcode.com/archives/U-V_Overflow_in_Perspective_Texture_Mapping.shtml
+- https://www.flipcode.com/documents/wwh1.txt
+- https://www.flipcode.com/documents/wwh2.txt
 - http://www.hugi.scene.org/online/coding/hugi%2017%20-%20cotriang.htm
 - http://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/projection-stage
 - http://web.archive.org/web/20100313070715/http://freespace.virgin.net:80/hugo.elias/graphics/x_polysc.htm
