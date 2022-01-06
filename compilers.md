@@ -3,7 +3,7 @@
 #### Forth version
 - http://home.iae.nl/users/mhx/crenshaw/tiny.html
 
-# An incremental Approach to Compiler Constructio
+# An incremental Approach to Compiler Construction
 - http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
 
 # A Nanopass Framework for Compiler Education
